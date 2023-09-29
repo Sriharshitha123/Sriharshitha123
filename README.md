@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Sri Harshitha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
@@ -12,10 +11,23 @@
 - 👯 I’m looking to collaborate on **Web Development**
 
 - 💬 Ask me about **HTML,CSS,PowerBI**
+-<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" style="display: inline-block;">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="display: inline-block;">
+
+</div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sriharshitha123&show_icons=true&locale=en&layout=compact" alt="Sriharshitha123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sriharshitha123&show_icons=true&locale=en" alt="Sriharshitha123" /></p>
+
+
 
 
