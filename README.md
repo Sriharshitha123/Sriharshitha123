@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sriharshitha123&label=Profile%20views&color=0e75b6&style=flat" alt="sriharshitha123" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Analytics**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Data Analyst**
 
-- 💬 Ask me about **HTML,CSS,PowerBI**
+- 💬 Ask me about **PowerBI**
 -<div style="text-align: center;">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="display: inline-block;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="display: inline-block;">
